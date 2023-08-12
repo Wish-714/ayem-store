@@ -55,25 +55,25 @@ function Menu() {
         >
           <div className="mt-[100px]">
             <h1 className="text-right py-2 mx-5 font-semibold">
-              Selamat Datang!
+              Selamat Datang! 👋
             </h1>
           </div>
           <span className="h-1 bg-gray-300 mt-5"></span>
           <div className="mt-5">
-            <p className="p-2 m-3 bg-gray-200 text-right rounded-xl hover:bg-gray-300">
-              Home Page
+            <p className="p-2 m-3 bg-gray-200 text-center rounded-xl hover:bg-gray-300">
+              Halaman Utama
             </p>
-            <p className="p-2 m-3 bg-gray-200 text-right rounded-xl hover:bg-gray-300">
-              Stok Toko
+            <p className="p-2 m-3 bg-gray-200 text-center rounded-xl hover:bg-gray-300">
+              Ajukan Barang
             </p>
-            <p className="p-2 m-3 bg-gray-200 text-right rounded-xl hover:bg-gray-300">
-              Cek Piutang
+            <p className="p-2 m-3 bg-green-500 text-white text-center rounded-xl hover:bg-green-700">
+              Whatsapp
             </p>
           </div>
           <span className="h-1 bg-gray-300 mt-5"></span>
           <div className="mt-5 bg-gray-100 pb-5">
-            <p className=" p-2 m-3 bg-gray-200 text-right rounded-xl hover:bg-gray-300">
-              Layanan Pelanggan
+            <p className=" p-2 m-3 bg-blue-500 text-center text-white rounded-xl hover:bg-blue-700">
+              Log-In
             </p>
             <img
               src={Logo}
@@ -82,8 +82,8 @@ function Menu() {
             />
             <div className="text-right text-xs mx-5 mt-28">
               <p>Koperasi Pegawai Republik Indonesia</p>
-              <p>Karanggayam, Kebumen</p>
-              <p className="mt-3">KPRI-AYEM@2022</p>
+              <p>Kec.Karanggayam, Kab.Kebumen 54365</p>
+              <p className="mt-3">KPRI-AYEM@2022 ~ By Wisnu Wardana</p>
             </div>
           </div>
         </div>

@@ -10,8 +10,8 @@ function Header() {
         <div className='bg-gradient-to-t from-gray-100 to-gray-100 flex drop-shadow-lg  items-center w-full h-20 text-black'>
             <img src={Logo} className='w-10 mx-5' alt='logo-koperasi'/>
             <div className=''>
-                <h1 className='font-bold text-lg'>KPRI - AYEM</h1>
-                <p className='text-sm'>Indonesia</p>
+                <h1 className='font-bold text-lg'>Toko - AYEM</h1>
+                <p className='text-sm'>Pesan & Antar Barang</p>
             </div>
         </div>
         <div>
